@@ -2,4 +2,4 @@
 
 my repo for NTHU ee2405.
 
-i don't like fish.
+i don't like :fish:.
